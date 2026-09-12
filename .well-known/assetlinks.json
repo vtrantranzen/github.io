@@ -1,1 +1,8 @@
-
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.tranzenstudio.travelbudget",
+        "sha256_cert_fingerprints": ["4F:6D:D5:5E:7C:0A:00:63:97:B1:8D:00:D5:93:42:CC:91:0A:03:BC:51:5F:3E:3E:B8:31:72:02:82:07:D8:53"]
+      }
+    }]
